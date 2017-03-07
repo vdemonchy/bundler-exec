@@ -48,6 +48,7 @@ define-bundler-aliases()
 ## Main program
 
 BUNDLED_COMMANDS="${BUNDLED_COMMANDS:-
+berks
 cap
 capify
 chef
